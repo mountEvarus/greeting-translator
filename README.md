@@ -9,7 +9,7 @@ I used HTML, SCSS, Javascript, Jest and Cypress for this project.
 ## Data
 
 Acceptable english input phrases:
--Hello!
+### Hello!
 -Hi!
 -Hey there!
 -What's up?
