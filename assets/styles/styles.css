@@ -1,0 +1,72 @@
+body {
+  font-family: "Oxygen", sans-serif;
+}
+body h1 {
+  text-align: center;
+  font-size: 40px;
+  margin: 20px;
+  text-decoration: underline;
+}
+body .image {
+  position: fixed;
+  width: 20%;
+  top: 35%;
+  left: 50px;
+}
+body .engSection, body .frnchSection {
+  width: 50vw;
+  border-radius: 20px;
+  height: 40%;
+  margin: 25px auto;
+  position: relative;
+}
+body .engSection input, body .frnchSection input {
+  position: absolute;
+  top: 25%;
+  left: 20%;
+  font-size: 35px;
+  background: none;
+  border: none;
+  text-align: center;
+}
+body .engSection p, body .frnchSection p {
+  position: absolute;
+  bottom: 10px;
+  left: 20px;
+  font-size: 30px;
+}
+body .engSection button, body .frnchSection button {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  font-size: 30px;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: #ff836f;
+  border: none;
+  box-shadow: black 1px 1px 10px;
+  color: white;
+  transition: 0.4s ease-in-out;
+}
+body .engSection button:hover, body .frnchSection button:hover {
+  background-color: white;
+  color: #ff836f;
+}
+body .engSection {
+  background-color: #f26047;
+  color: white;
+}
+body .engSection input {
+  color: white;
+}
+body .frnchSection {
+  background-color: #f2f2fa;
+}
+body .output {
+  height: 30px;
+  text-align: center;
+  font-size: 25px;
+  margin: 0;
+}
