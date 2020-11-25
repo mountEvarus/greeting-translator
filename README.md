@@ -8,7 +8,7 @@ I used HTML, SCSS, Javascript, Jest and Cypress for this project.
 
 ## Data
 
-Acceptable english input phrases:
+### Acceptable english input phrases:
 #### Hello!
 #### Hi!
 #### Hey there!
@@ -21,7 +21,7 @@ Acceptable english input phrases:
 #### See you soon, See you in a while!
 #### Sorry, but I gotta run!
 
-Acceptable french input phrases:
+### Acceptable french input phrases:
 #### Bonjour!
 #### Salut!
 #### Coucou!
